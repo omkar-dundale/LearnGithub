@@ -1,4 +1,4 @@
 # LearnGithub
 This is my first Git Repository.
 <br>
-Author - Omkar Dundale
+Author - Omkar D
